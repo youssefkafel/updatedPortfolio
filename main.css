@@ -1,0 +1,18 @@
+body {
+    background-color: #1c1d25;
+}
+
+#nav {
+    background-color: white;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.nav {
+    margin-top: 4.5vw;
+}
+
+.media {
+    margin-top: 30vw;
+}
+
